@@ -5,6 +5,7 @@ This guide will help you install the extension manually in Google Chrome.
 ──────
 🔧 STEP-BY-STEP INSTALLATION
 ─────────────────────────────────────────────
+# INSTALL THIS CODE FILE AS A ZIP BY CLICKING THE CODE BUTTON ON THE EIGHT CORNER ABOVE.
 
 1. ✅ Extract the ZIP file:
    - Right-click the downloaded ZIP → Click "Extract All"
@@ -41,3 +42,14 @@ NOT:
 
 Otherwise, Chrome will show an error like:
 > "Could not load manifest.json"
+
+
+───────────────
+📌 USING THE EXTENSION
+─────────────────────────────────────────────
+
+1. Open the portal and open the desired pdf that you want to download.
+2. Click view PDF.
+3. Click on the extension icon (puzzle piece → pin the extension).
+4. Click the “Download PDF” button.
+5. If supported, the PDF will be downloaded directly.
