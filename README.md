@@ -54,6 +54,6 @@ Otherwise, Chrome will show an error like:
 4. Click the “Download PDF” button.
 5. If supported, the PDF will be downloaded directly.
 
-   # WATCH THIS VIDEO TUTORIAL TO SEE HOW THE EXTENSION WORKS
-   📽️ [![Watch the video](https://img.youtube.com/vi/7CeyPNdDICI/0.jpg)](https://www.youtube.com/watch?v=7CeyPNdDICI)
+# WATCH THIS VIDEO TUTORIAL TO SEE HOW THE EXTENSION WORKS
+   [![Watch the video](https://img.youtube.com/vi/7CeyPNdDICI/0.jpg)](https://www.youtube.com/watch?v=7CeyPNdDICI)
 
