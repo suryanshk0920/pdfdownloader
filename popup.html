@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Download PDF</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background: #f0f0f0;
+      }
+
+      .container {
+        background: white;
+        padding: 40px 60px;
+        border-radius: 12px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        max-width: 600px;
+        width: 100%;
+        text-align: center;
+      }
+
+      #downloadBtn {
+        background-color: #007bff;
+        border: none;
+        color: white;
+        padding: 20px 60px;
+        font-size: 24px;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        box-shadow: 0 4px 8px rgba(0, 123, 255, 0.3);
+        width: 100%;
+        max-width: 320px;
+      }
+
+      #downloadBtn:hover {
+        background-color: #0056b3;
+      }
+
+      #infoText {
+        margin-top: 25px;
+        font-size: 18px;
+        color: #333;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <button id="downloadBtn">Download PDF</button>
+      <div id="infoText">Make sure your PDF is open in the viewer</div>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

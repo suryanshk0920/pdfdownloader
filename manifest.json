@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "PULMS PDF Downloader",
+  "version": "1.0",
+  "description": "Downloads dynamically loaded PDFs from viewers.",
+  "permissions": [
+    "downloads",
+    "webRequest",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
