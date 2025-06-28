@@ -13,7 +13,7 @@ This guide will help you install the extension manually in Google Chrome.
 
 2. ✅ Open Chrome Extensions Page:
    - Open Google Chrome.
-   - Visit: chrome://extensions/
+   - Visit: ***chrome://extensions/***
 
 3. ✅ Enable Developer Mode:
    - Toggle the "Developer mode" switch in the top-right corner.
