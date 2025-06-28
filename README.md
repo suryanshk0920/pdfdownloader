@@ -53,3 +53,6 @@ Otherwise, Chrome will show an error like:
 3. Click on the extension icon (puzzle piece → pin the extension).
 4. Click the “Download PDF” button.
 5. If supported, the PDF will be downloaded directly.
+
+   # WATCH THIS VIDEO TUTORIAL TO SEE HOW THE EXTENSION WORKS
+   📽️ https://youtu.be/7CeyPNdDICI
