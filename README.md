@@ -5,7 +5,7 @@ This guide will help you install the extension manually in Google Chrome.
 ──────
 🔧 STEP-BY-STEP INSTALLATION
 ─────────────────────────────────────────────
-# INSTALL THESE CODE FILES AS A ZIP BY CLICKING THE CODE BUTTON ON THE RIGHT CORNER ABOVE AND CLICKING DOWNLOAD AS A ZIP.
+# INSTALL THESE CODE FILES AS A ZIP BY CLICKING THE CODE BUTTON ON THE RIGHT CORNER ABOVE AND CLICKING DOWNLOAD ZIP.
 
 
 
