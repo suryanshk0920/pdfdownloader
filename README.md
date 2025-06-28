@@ -19,9 +19,9 @@ This guide will help you install the extension manually in Google Chrome.
    - Visit: ***chrome://extensions/***
 
 3. ✅ Enable Developer Mode:
-   - Toggle the "Developer mode" switch in the top-right corner.
+   - Toggle the **"Developer mode"** switch in the top-right corner.
 
-4. ✅ Click "Load unpacked":
+4. ✅ Click **"Load unpacked"**:
    - A folder browser will appear.
    - Select the correct folder (explained below).
 
