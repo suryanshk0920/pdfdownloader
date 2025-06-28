@@ -31,14 +31,14 @@ This guide will help you install the extension manually in Google Chrome.
 For example:
 If your extracted folder looks like this:
 
-📁 pdf_downloader_extension-main  
-└── 📁 pdf_downloader_extension  
+📁 pdf_downloader-main  
+└── 📁 pdf_downloader  
 
 You must select the **inner folder**, like this:
-✅ Select: `pdf_downloader_extension`
+✅ Select: `pdf_downloader`
 
 NOT:
-❌ Do not select: `pdf_downloader_extension-main`
+❌ Do not select: `pdf_downloader-main`
 
 Otherwise, Chrome will show an error like:
 > "Could not load manifest.json"
