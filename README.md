@@ -58,5 +58,6 @@ Otherwise, Chrome will show an error like:
 5. If supported, the PDF will be downloaded directly.
 
 # WATCH THIS VIDEO TUTORIAL TO SEE HOW THE EXTENSION WORKS
-   [![Watch the video](https://img.youtube.com/vi/7CeyPNdDICI/0.jpg)](https://www.youtube.com/watch?v=7CeyPNdDICI)
+   [![Watch the video](https://img.youtube.com/vi/88a-BMvfMh8/0.jpg)](https://www.youtube.com/watch?v=88a-BMvfMh8)
+
 
